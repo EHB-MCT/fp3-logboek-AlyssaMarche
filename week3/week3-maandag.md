@@ -20,6 +20,8 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 - Mijn code overzichtelijker gemaakt en beter gestructureerd verwerkt.
 
+- Style radio button met Joachim gefixed op rules page.
+
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
