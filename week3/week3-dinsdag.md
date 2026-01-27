@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[20/01/2026]`  
+**Datum:** `[26/01/2026]`  
 **Studentnaam:** `[Alyssa Marche]`  
 **Groepsnaam:** `[Pateetjes]`
 
@@ -10,27 +10,27 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Een groepsgesprek gehad om miscommunicaties en persoonlijke issues uit te klaren, zodat we opnieuw met een goede basis verder kunnen werken.
+- Verder gezocht naar en opgelost van kleine bugs in de code.
 
-- Samen met Joachim besproken hoe ik de JavaScript-structuur voor het carousel van de library kon aanpakken.
+- Op vraag van Joachim de radio buttons op de rules-pagina aangepast. Ik heb hierbij bewust gekozen voor een andere oplossing dan oorspronkelijk gevraagd, omdat de voorgestelde versie visueel minder mooi was en de hiërarchie niet meer duidelijk bleef.
 
-- Zelf uitgezocht en uitgeschreven hoe het carousel technisch in elkaar moest zitten (HTML-structuur + JS-logica).
+- Alle vaste px-waardes in de CSS omgezet naar rem, %, en vw om de layout responsiever te maken.
 
-- Kleine fouten in de HTML en CSS opgespoord en verbeterd.
+- Kleine aanpassingen gedaan in de HTML en CSS omdat enkele elementen uit het nieuwe design nog ontbraken.
 
-- Mijn code overzichtelijker gemaakt en beter gestructureerd verwerkt.
+- Gestart met het maken van de presentatie voor het project.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- Ik heb geleerd hoe ik technische problemen kan analyseren door eerst samen te overleggen en daarna zelfstandig verder uit te pluizen, en hoe ik beter omga met communicatieproblemen binnen een groep.
+- Ik heb geleerd om bewuster designkeuzes te maken en deze te onderbouwen, ook wanneer dit betekent dat ik afwijk van een voorstel van een teamgenoot.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- Opgelucht -> omdat de miscommunicaties en persoonlijke issues binnen de groep zijn uitgeklaard
-- Gemotiveerd -> omdat ik nu opnieuw met een duidelijk plan en meer vertrouwen aan mijn code kan verderwerken
+- Geconcentreerd -> omdat ik veel kleine maar belangrijke verbeteringen heb kunnen doorvoeren
+- zelfverzekerd -> omdat ik beter durfde vertrouwen op mijn eigen technische en visuele keuzes.
 
 ---
